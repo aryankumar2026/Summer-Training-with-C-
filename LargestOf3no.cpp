@@ -8,16 +8,16 @@ int main()
     if(a>b)
     {
         if(a>c)
-        cout<<"largest number:";
+        cout<<"largest number:"<<a;
         else
-        cout<<"largest number:";
+        cout<<"largest number:"<<c;
     }
     else
     { 
      if(b>c)
-     cout<<"largest number:";
+     cout<<"largest number:"<<b;
      else
-     cout<<"largest number";
+     cout<<"largest number:"<<c;
     }
     return 0;
 }
