@@ -7,11 +7,11 @@ int main ()
     cin>>num;
     if(num>0)
     {
-        cout<<"Positive";
+        cout<<"Positive"<< endl;
     }
     else if(num<0)
     {
-        cout<<"Negative";
+        cout<<"Negative"<< endl;
     }
     else
     {
