@@ -3,11 +3,11 @@ using namespace std;
 int main()
 {
     int n;
-    cout<<"enter the number:";
+    cout<<"enter the number:"<< endl;
     cin>>n;
     if(n%2==0)
-    cout<<"Even";
+    cout<<"Even"<< endl;
     else
-    cout<<"Odd";
+    cout<<"Odd"<< endl;
     return 0
 }
